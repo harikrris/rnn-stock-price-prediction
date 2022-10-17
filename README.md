@@ -27,8 +27,8 @@ predict the values
 ## PROGRAM
 
 
-name : k.garshankumar
-reg no: 212219040034
+name : Sri hari krishnan R
+reg no: 212219040150
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
