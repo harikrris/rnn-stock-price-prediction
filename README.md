@@ -15,25 +15,25 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 
-###STEP 1:
+## STEP 1:
 Import tensorflow library and preprocessing libraries.
 
-###STEP 2:
+### STEP 2:
 Load the traning dataset and take one column values and scale it using minmaxscaler.
 
-###STEP 3:
+### STEP 3:
 Split x_train(0-60 values) and y_train(61 st value).
 
-###STEP 4:
+### STEP 4:
 Create a RNN model with required no of neurons with one output neuron.
 
-###STEP 5:
+### STEP 5:
 Fit the model and load testing dataset.For x_test,combine the values of both datasets.
 
-###STEP 6:
+### STEP 6:
 Follow the same splitting.Make the prediction.
 
-###STEP 7:
+### STEP 7:
 Plot graph and find the mse value.
 ```
 ## PROGRAM
