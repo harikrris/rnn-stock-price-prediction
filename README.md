@@ -6,6 +6,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
 
+
 ## Neural Network Model
 
 Include the neural network model diagram.
@@ -29,6 +30,7 @@ predict the values
 
 name : Sri hari krishnan R
 reg no: 212219040150
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
